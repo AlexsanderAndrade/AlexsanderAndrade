@@ -29,7 +29,7 @@
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-ten-gilt.vercel.app/api?username=alexdev-11&show_icons=true&count_private=true&hide_border=true&title_color=F66B92&icon_color=F66B92&text_color=F66B92&bg_color=0d1117" 
+    src="https://github-readme-stats-ten-gilt.vercel.app/api?username=AlexsanderAndrade&show_icons=true&count_private=true&hide_border=true&title_color=F66B92&icon_color=F66B92&text_color=F66B92&bg_color=0d1117" 
   />
 
 <img 
@@ -37,10 +37,11 @@
       alt="GitHub Stats" 
       height="150" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=alexdev-11&layout=compact&hide_border=true&title_color=F66B92&text_color=F66B92&bg_color=0d1117"
+      src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=AlexsanderAndrade&layout=compact&hide_border=true&title_color=F66B92&text_color=F66B92&bg_color=0d1117"
   />
 
 <br>
 <br>
 
   
+
