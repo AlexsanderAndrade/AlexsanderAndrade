@@ -66,7 +66,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, em busca d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" alt="Postman" title="Postman">
 </p>
 
-## Projeto em destaque
+## Projetos em destaque
 
 ### API Controle de Estoque
 
@@ -75,6 +75,14 @@ API REST simples criada para praticar rotas, validação de dados, organização
 Repositório: [api-controle-estoque](https://github.com/AlexsanderAndrade/api-controle-estoque)
 
 O projeto simula uma rotina comum em empresas: cadastrar produtos, controlar quantidade em estoque, consultar itens abaixo do mínimo e gerar um resumo geral do estoque.
+
+### Consultas SQL de Vendas
+
+Projeto criado para praticar banco de dados em um cenário simples de vendas, com clientes, produtos, pedidos e itens de pedido.
+
+Repositório: [consultas-sql-vendas](https://github.com/AlexsanderAndrade/consultas-sql-vendas)
+
+O projeto trabalha consultas com filtros, ordenação, `JOIN`, `GROUP BY` e relatórios simples, reforçando fundamentos importantes para desenvolvimento back-end.
 
 ## Estatísticas do GitHub
 
