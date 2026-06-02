@@ -29,7 +29,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, em busca d
 
 - Cursando Análise e Desenvolvimento de Sistemas na PUC Minas.
 - Estudando desenvolvimento back-end, Java, APIs REST e banco de dados.
-- Atualmente trabalho na Friopeças, com rotina corporativa, organização de informações, atendimento interno e uso de sistemas como SAP.
+- Estou fortalecendo minha base técnica com estudos, projetos práticos e revisão constante dos fundamentos de desenvolvimento.
 - Busco oportunidade de estágio para aprender com projetos reais e evoluir como desenvolvedor.
 - Tenho interesse em criar soluções simples, funcionais e bem organizadas.
 
