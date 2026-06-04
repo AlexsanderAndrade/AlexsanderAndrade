@@ -76,6 +76,14 @@ Repositório: [api-controle-estoque](https://github.com/AlexsanderAndrade/api-co
 
 O projeto simula uma rotina comum em empresas: cadastrar produtos, controlar quantidade em estoque, consultar itens abaixo do mínimo e gerar um resumo geral do estoque.
 
+### Painel de Estoque Web
+
+Interface web simples criada para consumir os dados da API Controle de Estoque.
+
+Repositório: [painel-estoque-web](https://github.com/AlexsanderAndrade/painel-estoque-web)
+
+O painel mostra resumo do estoque, produtos cadastrados, filtros por nome e categoria, além de indicação de produtos com estoque baixo.
+
 ### Consultas SQL de Vendas
 
 Projeto criado para praticar banco de dados em um cenário simples de vendas, com clientes, produtos, pedidos e itens de pedido.
