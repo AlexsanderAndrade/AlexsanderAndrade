@@ -4,10 +4,10 @@
 # Olá, eu sou o Alexsander Lima
 
 
-### Desenvolvedor Back-end em formação | Python | Flask e FastAPI em estudo | APIs REST | Banco de Dados | ADS - PUC Minas
+### Desenvolvedor Back-end em formação | Python | Flask | APIs REST | Banco de Dados | ADS - PUC Minas
 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas. Tenho focado meus estudos em Python, desenvolvimento back-end, lógica de programação, APIs REST, banco de dados e construção de projetos práticos.
+Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, com conclusão prevista para dezembro de 2026. Tenho focado meus estudos em Python, desenvolvimento back-end, APIs REST, banco de dados e projetos inspirados em problemas reais.
 
 
 <p>
@@ -35,11 +35,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas. Tenho foca
 ## Sobre mim
 
 
-- Cursando Análise e Desenvolvimento de Sistemas na PUC Minas.
+- Cursando Análise e Desenvolvimento de Sistemas na PUC Minas, com conclusão prevista para dezembro de 2026.
 - Estudando Python e fundamentos de desenvolvimento back-end.
-- Iniciando os estudos em Flask e FastAPI para criação de APIs REST.
-- Estou fortalecendo minha base técnica com estudos, projetos práticos e revisão constante dos fundamentos de desenvolvimento.
-- Tenho interesse em criar soluções simples, funcionais e bem organizadas.
+- Aplicando Flask, SQLAlchemy e SQLite em projetos práticos.
+- Aprendendo testes automatizados, APIs REST e integração contínua.
+- Buscando a primeira oportunidade profissional em desenvolvimento de software.
 
 
 ## Tecnologias e ferramentas
@@ -50,8 +50,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas. Tenho foca
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python" title="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42" alt="Flask" title="Flask">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" title="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js" title="Node.js">
 </p>
 
 
@@ -60,6 +60,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas. Tenho foca
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL" title="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" alt="SQLite" title="SQLite">
   <img src="https://img.shields.io/badge/SQL-Estudando-111827?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
 </p>
 
@@ -85,6 +86,24 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas. Tenho foca
 
 
 ## Projetos em destaque
+
+
+### LojaFlux — gestão para pequenos comércios
+
+
+[![Testes](https://github.com/AlexsanderAndrade/lojaflux/actions/workflows/tests.yml/badge.svg)](https://github.com/AlexsanderAndrade/lojaflux/actions/workflows/tests.yml)
+
+
+Sistema web inspirado na rotina de uma loja real para registrar produtos, compras e vendas, acompanhar o estoque e consultar os resultados do dia.
+
+
+[![Dashboard do LojaFlux](https://raw.githubusercontent.com/AlexsanderAndrade/lojaflux/main/docs/dashboard.png)](https://github.com/AlexsanderAndrade/lojaflux)
+
+
+**Destaques técnicos:** Python, Flask, SQLAlchemy, SQLite, transações atômicas, valores monetários em centavos, histórico imutável de preços, API JSON, testes com Pytest e CI com GitHub Actions.
+
+
+Repositório: [AlexsanderAndrade/lojaflux](https://github.com/AlexsanderAndrade/lojaflux)
 
 
 ### API Controle de Estoque
@@ -136,10 +155,13 @@ O projeto trabalha consultas com filtros, ordenação, `JOIN`, `GROUP BY` e rela
 
 
 - Python e fundamentos de desenvolvimento back-end.
-- Flask e FastAPI em estudo.
+- Flask e desenvolvimento de aplicações web.
+- SQLAlchemy e SQLite.
 - Programação orientada a objetos.
 - Banco de dados e SQL.
 - APIs REST.
+- Testes automatizados com Pytest.
+- Integração contínua com GitHub Actions.
 - Git e GitHub.
 - Boas práticas de desenvolvimento.
 
